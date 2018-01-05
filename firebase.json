@@ -1,0 +1,10 @@
+ {
+     "hosting": {
+       "public": "../ponderlide",
+       "ignore": [
+         "firebase.json",
+         "**/.*",
+         "**/node_modules/**"
+       ]
+     }
+  }
